@@ -1,6 +1,6 @@
 # 🚀 GitHub Actions Study Notes
 
-A personal knowledge base of **Obsidian Flavored Markdown** notes covering GitHub Actions CI/CD, workflow jobs, artifacts, variables, triggers, concurrency, contexts, matrix builds, Node.js CI, Docker, AWS S3 reports, notifications, self-hosted runners, and the Solar System pipeline project.
+A personal knowledge base of **Obsidian Flavored Markdown** notes covering GitHub Actions CI/CD, workflow jobs, artifacts, variables, triggers, concurrency, contexts, matrix builds, Node.js CI, Docker, AWS S3 reports, notifications, self-hosted runners, and the [Solar System pipeline project](https://github.com/OfficialMoAdel/solar-system).
 
 > [!NOTE] Best viewed in Obsidian
 > These notes use [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown) (wikilinks, callouts, properties, embeds). They resolve links natively in [Obsidian](https://obsidian.md/). On GitHub, wikilinks (`[[Note]]`) appear as plain text — open the linked files below to read each note.
