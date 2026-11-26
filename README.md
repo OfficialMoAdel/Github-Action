@@ -1,5 +1,8 @@
 # 🚀 Git & GitHub Actions Study Notes
 
+<img width="2752" height="1536" alt="github-3" src="https://github.com/user-attachments/assets/a7a65c9d-f7f4-41aa-8911-c2ebeb30d956" />
+
+
 A personal knowledge base of **Obsidian Flavored Markdown** notes covering **Git** (from fundamentals and branching to recovery, QA workflows, troubleshooting, and interview prep) and **GitHub Actions CI/CD** (workflow jobs, artifacts, variables, triggers, concurrency, contexts, matrix builds, Node.js CI, Docker, Kubernetes, AWS S3 reports, notifications, self-hosted runners, and the [Solar System pipeline project](https://github.com/OfficialMoAdel/solar-system)).
 
 > [!NOTE] Best viewed in Obsidian
